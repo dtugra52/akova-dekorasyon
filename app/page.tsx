@@ -1126,7 +1126,6 @@ Proje Detayları: ${detay}`;
 
               <div className="mt-5 space-y-3 text-sm text-white/45">
                 <p>+90 532 499 61 65</p>
-                <p>Sakarya,Düzce,Kocaeli Türkiye</p>
               </div>
             </div>
           </div>
