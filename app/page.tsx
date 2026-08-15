@@ -1125,9 +1125,8 @@ Proje Detayları: ${detay}`;
               <p className="font-bold">İletişim</p>
 
               <div className="mt-5 space-y-3 text-sm text-white/45">
-                <p>+90 500 000 00 00</p>
-                <p>info@akovadekorasyon.com</p>
-                <p>İstanbul, Türkiye</p>
+                <p>+90 532 499 61 65</p>
+                <p>Sakarya,Düzce,Kocaeli Türkiye</p>
               </div>
             </div>
           </div>
