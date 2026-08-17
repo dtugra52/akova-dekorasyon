@@ -13,8 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://akovadekorasyon.com.tr"),
+
   title: {
-    default: "Akova Dekorasyon | Tadilat ve Dekorasyon",
+    default: "Akova Dekorasyon | Sakarya Tadilat ve Dekorasyon",
     template: "%s | Akova Dekorasyon",
   },
 
@@ -25,6 +27,9 @@ export const metadata: Metadata = {
     "Akova Dekorasyon",
     "Sakarya dekorasyon",
     "Sakarya tadilat",
+    "Sakarya anahtar teslim tadilat",
+    "Sakarya iç dekorasyon",
+    "Sakarya ev tadilatı",
     "Kocaeli dekorasyon",
     "Kocaeli tadilat",
     "Düzce dekorasyon",
@@ -39,15 +44,24 @@ export const metadata: Metadata = {
   authors: [{ name: "Akova Dekorasyon" }],
   creator: "Akova Dekorasyon",
 
+  alternates: {
+    canonical: "/",
+  },
+
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+    },
   },
 
   openGraph: {
-    title: "Akova Dekorasyon | Tadilat ve Dekorasyon",
+    title: "Akova Dekorasyon | Sakarya Tadilat ve Dekorasyon",
     description:
       "Sakarya, Kocaeli ve Düzce'de anahtar teslim tadilat ve profesyonel dekorasyon çözümleri.",
+    url: "https://akovadekorasyon.com.tr",
     type: "website",
     locale: "tr_TR",
     siteName: "Akova Dekorasyon",
