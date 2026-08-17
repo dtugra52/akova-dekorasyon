@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://akovadekorasyon.com/sitemap.xml",
+    sitemap: "https://akovadekorasyon.com.tr/sitemap.xml",
   };
 }
