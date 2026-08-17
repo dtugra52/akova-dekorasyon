@@ -6,7 +6,7 @@ const services = [
     description:
       "Planlamadan uygulamaya kadar tüm yenileme sürecini tek merkezden profesyonel şekilde yönetiyoruz.",
     image:
-        "/galeri/dis-cephe/1000073267.jpg",
+        "/galeri/dis-cephe/IMG-20260814-WA0003.jpg",
     icon: (
       <svg
         viewBox="0 0 24 24"
@@ -27,7 +27,7 @@ const services = [
     description:
       "Yaşam tarzınıza ve mekânın karakterine uygun, modern ve işlevsel iç mekân çözümleri tasarlıyoruz.",
     image:
-      "/galeri/dekorasyon/WhatsApp Image 2026-08-14 at 23.52.25.jpeg",
+      "/galeri/dekorasyon/IMG-20260814-WA0194.jpg",
     icon: (
       <svg
         viewBox="0 0 24 24"
@@ -70,7 +70,7 @@ const services = [
     title: "Banyo Yenileme",
     description:
       "Su yalıtımından seramik uygulamasına kadar uzun ömürlü ve şık banyolar hazırlıyoruz.",
-    image: "/galeri/banyo/1000074045.jpg",
+    image: "/galeri/banyo/IMG-20260814-WA0307.jpg",
     icon: (
       <svg
         viewBox="0 0 24 24"
@@ -92,7 +92,7 @@ const services = [
     description:
       "Pürüzsüz yüzeyler, dekoratif tavanlar ve mekâna uygun renk uygulamaları gerçekleştiriyoruz.",
     image:
-      "/galeri/boya/1000073211.jpg",
+      "/galeri/boya/IMG-20260814-WA0544.jpg",
     icon: (
       <svg
         viewBox="0 0 24 24"
@@ -114,7 +114,7 @@ const services = [
     description:
       "TV ünitesi, duvar paneli, niş, özel mobilya ve dekoratif detaylarla projeyi tamamlıyoruz.",
     image:
-      "/galeri/dekorasyon/WhatsApp Image 2026-08-14 at 23.52.31 (1).jpeg",
+      "/galeri/dekorasyon/IMG-20260814-WA0267.jpg",
     icon: (
       <svg
         viewBox="0 0 24 24"
@@ -138,7 +138,7 @@ const projects = [
     category: "Dekorasyon",
     title: "İç Mekân Dekorasyon Çalışması",
     image:
-      "/galeri/dekorasyon/WhatsApp Image 2026-08-14 at 23.52.25.jpeg",
+      "/galeri/dekorasyon/IMG-20260814-WA0188.jpg",
   },
   {
     category: "Mutfak",
@@ -148,7 +148,7 @@ const projects = [
   {
     category: "Banyo",
     title: "Banyo Dekorasyon Çalışması",
-    image: "/galeri/banyo/1000074045.jpg",
+    image: "/galeri/banyo/IMG-20260814-WA0334.jpg",
   },
 ];
 
@@ -536,7 +536,7 @@ export default function Home() {
         <div className="mx-auto grid max-w-7xl gap-14 rounded-[36px] border border-white/10 bg-white/[0.035] p-7 sm:p-12 lg:grid-cols-2 lg:p-16">
           <div className="relative min-h-[460px] overflow-hidden rounded-[28px] border border-white/10 bg-[#0c0f15] p-8">
             <img
-  src="/galeri/dekorasyon/WhatsApp Image 2026-08-14 at 23.52.25.jpeg"
+  src="/galeri/dekorasyon/IMG-20260814-WA0276.jpg"
   alt="Akova Dekorasyon iç mekân çalışması"
   className="absolute inset-0 h-full w-full object-cover"
 />
