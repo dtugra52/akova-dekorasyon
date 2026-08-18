@@ -6,7 +6,7 @@ const services = [
     description:
       "Planlamadan uygulamaya kadar tüm yenileme sürecini tek merkezden profesyonel şekilde yönetiyoruz.",
     image:
-        "/galeri/dis-cephe/IMG-20260814-WA0003.jpg",
+        "/galeri/dis-cephe/IMG-20260814-WA0033.jpg",
     icon: (
       <svg
         viewBox="0 0 24 24"
