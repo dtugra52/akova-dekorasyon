@@ -120,7 +120,7 @@ export default function AnahtarTeslimTadilatPage() {
 
           <div className="relative min-h-[520px] overflow-hidden rounded-[32px] border border-white/10">
             <img
-              src="/galeri/dis-cephe/1000073267.jpg"
+              src="/galeri/dis-cephe/IMG-20260814-WA0033.jpg"
               alt="Akova Dekorasyon anahtar teslim tadilat çalışması"
               className="absolute inset-0 h-full w-full object-cover"
             />
