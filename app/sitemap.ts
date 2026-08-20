@@ -1,33 +1,35 @@
 import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  const baseUrl = "https://www.akovadekorasyon.com.tr";
+
   return [
     {
-      url: "https://akovadekorasyon.com.tr",
+      url: baseUrl,
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 1,
     },
     {
-      url: "https://akovadekorasyon.com.tr/galeri",
+      url: `${baseUrl}/galeri`,
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 0.8,
     },
     {
-      url: "https://akovadekorasyon.com.tr/anahtar-teslim-tadilat",
+      url: `${baseUrl}/anahtar-teslim-tadilat`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.9,
     },
     {
-      url: "https://akovadekorasyon.com.tr/italyan-boya",
+      url: `${baseUrl}/italyan-boya`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.9,
     },
     {
-      url: "https://akovadekorasyon.com.tr/mutfak-yenileme",
+      url: `${baseUrl}/mutfak-yenileme`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.9,

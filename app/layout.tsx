@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://akovadekorasyon.com.tr"),
+  metadataBase: new URL("https://www.akovadekorasyon.com.tr"),
 
   title: {
     default: "Akova Dekorasyon | Sakarya Tadilat ve Dekorasyon",
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     title: "Akova Dekorasyon | Sakarya Tadilat ve Dekorasyon",
     description:
       "Sakarya, Kocaeli ve Düzce'de anahtar teslim tadilat ve profesyonel dekorasyon çözümleri.",
-    url: "https://akovadekorasyon.com.tr",
+    url: "https://www.akovadekorasyon.com.tr",
     type: "website",
     locale: "tr_TR",
     siteName: "Akova Dekorasyon",
