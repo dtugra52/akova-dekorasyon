@@ -1133,7 +1133,7 @@ Proje Detayları: ${detay}`;
           <div className="mt-14 flex flex-col gap-4 border-t border-white/10 pt-7 text-xs text-white/30 sm:flex-row sm:items-center sm:justify-between">
             <p>
               © {new Date().getFullYear()} Akova Dekorasyon. Tüm hakları
-              saklıdır.
+              saklıdır.             Designed&Developed by Tuğra Dündar
             </p>
             <p>Kaliteli mekânlar, güçlü yaşam alanları.</p>
           </div>
